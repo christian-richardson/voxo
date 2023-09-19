@@ -4,6 +4,6 @@
   status = 200
 
 [[redirects]]
-  from = "/app/*"
-  to = "/app/:splat"
+  from = "/*"
+  to = "/:splat"
   status = 200
