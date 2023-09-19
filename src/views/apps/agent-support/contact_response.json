@@ -1,0 +1,17 @@
+{
+  "id": 518,
+  "instance_id": 5,
+  "agent_id": 257,
+  "agent_arn": "arn:aws:connect:eu-west-2:1111111111111:instance/e92b4d6c-62cd-4f08-89c6-a7b56ac1378a/agent/2da8a319-7caa-47b8-a420-1eec915eff35",
+  "connection_type": "IN",
+  "contact_type": "CALL",
+  "contact_id": "eb8e1338-4ade-4886-a3ea-93f9a07720bf",
+  "start_date_time": "2023-05-25T16:15:50.000Z",
+  "end_date_time": "2023-05-25T16:28:50.000Z",
+  "contact_endpoint": "+12222222222",
+  "metadata": "\"{\\\"transcription\\\":[{\\\"ParticipantId\\\":\\\"AGENT\\\",\\\"ParticipantRole\\\":\\\"AGENT\\\",\\\"Content\\\":\\\"Hello, this is John\\\",\\\"BeginOffsetMillis\\\":96840,\\\"EndOffsetMillis\\\":97365,\\\"Id\\\":\\\"490b2aa0-09da-4b59-8a96-6238e3f5841d\\\",\\\"Sentiment\\\":\\\"NEUTRAL\\\",\\\"IssuesDetected\\\":[]},{\\\"ParticipantId\\\":\\\"AGENT\\\",\\\"ParticipantRole\\\":\\\"AGENT\\\",\\\"Content\\\":\\\"how can I help you?\\\",\\\"BeginOffsetMillis\\\":122567,\\\"EndOffsetMillis\\\":122915,\\\"Id\\\":\\\"0a1fea41-11b4-47e4-add1-140569c5b5ba\\\",\\\"Sentiment\\\":\\\"NEUTRAL\\\",\\\"IssuesDetected\\\":[]},{\\\"ParticipantId\\\":\\\"CUSTOMER\\\",\\\"ParticipantRole\\\":\\\"CUSTOMER\\\",\\\"Content\\\":\\\"I would need some assistance, please\\\",\\\"BeginOffsetMillis\\\":193847,\\\"EndOffsetMillis\\\":194205,\\\"Id\\\":\\\"9a5135a0-13b9-4085-bcec-365ccd1ef317\\\",\\\"Sentiment\\\":\\\"NEUTRAL\\\",\\\"IssuesDetected\\\":[]},{\\\"ParticipantId\\\":\\\"AGENT\\\",\\\"ParticipantRole\\\":\\\"AGENT\\\",\\\"Content\\\":\\\"Yes sure absolutely!\\\",\\\"BeginOffsetMillis\\\":339467,\\\"EndOffsetMillis\\\":347307,\\\"Id\\\":\\\"02393249-486c-4607-a1bb-e18b78fdbfd1\\\",\\\"Sentiment\\\":\\\"NEUTRAL\\\",\\\"IssuesDetected\\\":[]},{\\\"ParticipantId\\\":\\\"CUSTOMER\\\",\\\"ParticipantRole\\\":\\\"CUSTOMER\\\",\\\"Content\\\":\\\"I will send the details via email instead.\\\",\\\"BeginOffsetMillis\\\":381780,\\\"EndOffsetMillis\\\":382337,\\\"Id\\\":\\\"d0e58c50-b71c-4b5b-b036-9ac084f08209\\\",\\\"Sentiment\\\":\\\"NEUTRAL\\\",\\\"IssuesDetected\\\":[]},{\\\"ParticipantId\\\":\\\"CUSTOMER\\\",\\\"ParticipantRole\\\":\\\"CUSTOMER\\\",\\\"Content\\\":\\\"Okay have a nice day.\\\",\\\"BeginOffsetMillis\\\":492390,\\\"EndOffsetMillis\\\":493005,\\\"Id\\\":\\\"f13ae8c3-d24b-43a8-9c15-8ea99d5f95bb\\\",\\\"Sentiment\\\":\\\"NEUTRAL\\\",\\\"IssuesDetected\\\":[]}],\\\"attributes\\\":{\\\"VOXO_CONTACT_ATTRIBUTE_01\\\":{\\\"name\\\":\\\"VOXO_CONTACT_ATTRIBUTE_01\\\",\\\"value\\\":\\\"test 01\\\"},\\\"VOXO_CONTACT_ATTRIBUTE_02\\\":{\\\"name\\\":\\\"VOXO_CONTACT_ATTRIBUTE_02\\\",\\\"value\\\":\\\"test 02\\\"},\\\"VOXO_CONTACT_ATTRIBUTE_04\\\":{\\\"name\\\":\\\"VOXO_CONTACT_ATTRIBUTE_04\\\",\\\"value\\\":\\\"test 04\\\"},\\\"VOXO_CONTACT_ATTRIBUTE_05\\\":{\\\"name\\\":\\\"VOXO_CONTACT_ATTRIBUTE_05\\\",\\\"value\\\":\\\"test 05\\\"},\\\"VOXO_CONTACT_UNIQUE_ID\\\":{\\\"name\\\":\\\"VOXO_CONTACT_UNIQUE_ID\\\",\\\"value\\\":\\\"455555555544\\\"}},\\\"sentiment\\\":\\\"NEUTRAL\\\",\\\"categories\\\":{}}\"",
+  "is_closed": false,
+  "closure_code_id": null,
+  "closure_notes": null,
+  "contact_group_id": "455555555544"
+}
