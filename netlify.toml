@@ -2,3 +2,8 @@
   from = "/static/*"
   to = "/static/:splat"
   status = 200
+
+[[redirects]]
+  from = "/app/*"
+  to = "/app/:splat"
+  status = 200
